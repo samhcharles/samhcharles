@@ -2,45 +2,38 @@
 
 # ws-sam
 
-**founder · [WokSpec](https://github.com/WokSpec)**
+**building [WokSpec](https://github.com/WokSpec)**
 
 </div>
 
 ---
 
-<div align="center">
+WokSpec is a small independent ecosystem — AI infrastructure, Web3 research tooling, and community systems. Built in public, designed to last.
 
-<img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nodejs,docker,postgres,git&perline=9&theme=dark" alt="Tech stack"/>
+## active focus
 
-</div>
-
-<br/>
-
-<div align="center">
-
-founder of **[WokSpec](https://github.com/WokSpec)** — an open-source ecosystem for AI tooling, infrastructure, and community systems
-
-maintainer of **[Chopsticks](https://github.com/ws-sam/Chopsticks)** — production-grade Discord bot with music, moderation, economy, AI, and agent pooling
-
-</div>
-
----
-
-## ecosystem
-
-| org | focus |
-|-----|-------|
-| [WokSpec](https://github.com/WokSpec) | core umbrella — shared context, docs, coordination |
-| [Nqyta](https://github.com/nqyta) | platform |
-| [Orynadus](https://github.com/orynadus) | platform |
-| [Autyladus](https://github.com/autyladus) | platform |
-
----
+Right now: building out the WokSpec core — platform, API, and [Orinadus](https://github.com/orynadus), a Web3 research and intelligence platform.
 
 ## projects
 
 **[Chopsticks](https://github.com/ws-sam/Chopsticks)**
-Production-grade open-source Discord bot — music, moderation, economy, AI, and a community-powered agent pool system. MIT licensed. Self-hostable.
+Production-grade, self-hostable Discord bot. Music, moderation, economy, AI, and a community-powered agent pool system. MIT licensed. On hold while WokSpec is being built — self-hosting is the path until a managed instance is back up.
+
+## ecosystem
+
+WokSpec spans a few GitHub orgs. The naming looks a bit off — here's the context.
+
+The original orgs (`nqita`, `autiladus`, `orinadus`) were lost when a predecessor account was suspended. The suspension came from an experimental agent swarm architecture that was flagged. The project behind it was an early version of Autiladus — that work is gone. Autiladus has since been restarted as an unrelated client services agency.
+
+Because the original org names were taken after the suspension, replacements were registered with `i` → `y`:
+
+| GitHub org | Brand name |
+|------------|------------|
+| [nqyta](https://github.com/nqyta) | Nqita |
+| [orynadus](https://github.com/orynadus) | Orinadus |
+| [autyladus](https://github.com/autyladus) | Autiladus |
+
+The Y is just a naming workaround. Brand names are always written normally.
 
 ---
 
@@ -49,13 +42,5 @@ Production-grade open-source Discord bot — music, moderation, economy, AI, and
 <a href="https://discord.gg/B7Bhuherkn">
   <img src="https://img.shields.io/badge/Egg_Fried_Rice-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Egg Fried Rice Discord"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-*Previously active as [goot27](https://github.com/goot27). That account is suspended — all work continues here.*
 
 </div>
