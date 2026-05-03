@@ -6,7 +6,7 @@
 
 ### Im currently reading...
 
-> 順 *World War Z* by Max Brooks
+> *World War Z* by Max Brooks
 
 <table align="center" width="82%" cellspacing="0" cellpadding="0" border="0">
   <tr>
