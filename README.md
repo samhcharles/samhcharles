@@ -6,7 +6,7 @@
 
 ### Im currently reading...
 
-> 🧟 *World War Z* by Max Brooks
+> 順 *World War Z* by Max Brooks
 
 <table align="center" width="82%" cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -47,19 +47,19 @@
       <table width="85%" cellspacing="0" cellpadding="0" border="0">
         <tr>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hermesagent-mono.svg" height="48" alt="Hermes Agent" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="48" alt="Hermes Agent" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openclaw-mono.svg" height="48" alt="OpenClaw" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="48" alt="OpenClaw" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-mono.svg" height="48" alt="Claude" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="48" alt="Claude" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-mono.svg" height="48" alt="Codex" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="48" alt="Codex" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kimi-mono.svg" height="48" alt="Kimi" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="48" alt="Kimi" />
           </td>
         </tr>
       </table>
