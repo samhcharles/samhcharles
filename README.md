@@ -24,23 +24,41 @@
 
 ### My agents...
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/hank.gif" height="250" alt="Hank Duck" />
-  <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/nqita.gif" height="250" alt="Nqita" />
-  <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/dublo.gif" height="250" alt="Agent 00" />
-</p>
+> My agents...
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hank-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" alt="Hank Duck" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Nqita-FF69B4?style=flat-square&labelColor=FF69B4&color=FF69B4" alt="Nqita" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dublo-808080?style=flat-square&labelColor=808080&color=808080" alt="Agent 00" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="500" alt="Hermes Agent" /><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="500" alt="OpenClaw" /><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="500" alt="Claude" /><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="500" alt="Codex" /><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="500" alt="Kimi" />
-</p>
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td colspan="5" align="center" valign="bottom">
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/hank.gif" height="300" alt="Hank Duck" /><br />
+      <img src="https://img.shields.io/badge/Hank-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" alt="Hank Duck" />
+    </td>
+    <td colspan="5" align="center" valign="bottom">
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/nqita.gif" height="300" alt="Nqita" /><br />
+      <img src="https://img.shields.io/badge/Nqita-FF69B4?style=flat-square&labelColor=FF69B4&color=FF69B4" alt="Nqita" />
+    </td>
+    <td colspan="5" align="center" valign="bottom">
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/dublo.gif" height="300" alt="Agent 00" /><br />
+      <img src="https://img.shields.io/badge/Dublo-808080?style=flat-square&labelColor=808080&color=808080" alt="Agent 00" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="500" alt="Hermes Agent" />
+    </td>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="500" alt="OpenClaw" />
+    </td>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="500" alt="Claude" />
+    </td>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="500" alt="Codex" />
+    </td>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="500" alt="Kimi" />
+    </td>
+  </tr>
+</table>
 
 ---
 
