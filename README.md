@@ -6,7 +6,7 @@
 
 ### Im currently reading...
 
-> 順 *World War Z* by Max Brooks
+> 🧟 *World War Z* by Max Brooks
 
 <table align="center" width="82%" cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -24,7 +24,7 @@
 
 ### My agents...
 
-> amongst other things...
+> My agents...
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -47,19 +47,19 @@
       <table width="85%" cellspacing="0" cellpadding="0" border="0">
         <tr>
           <td width="20%" align="center" valign="middle">
-            <img src="https://api.iconify.design/logos:hermes.svg" height="48" alt="Hermes" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hermesagent-mono.svg" height="48" alt="Hermes Agent" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/pixel-lobster.svg" height="48" alt="OpenClaw" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openclaw-mono.svg" height="48" alt="OpenClaw" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://api.iconify.design/logos:anthropic-icon.svg" height="48" alt="Claude" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-mono.svg" height="48" alt="Claude" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://api.iconify.design/logos:openai-icon.svg" height="48" alt="Codex" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-mono.svg" height="48" alt="Codex" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/kimi.svg" height="48" alt="Kimi" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kimi-mono.svg" height="48" alt="Kimi" />
           </td>
         </tr>
       </table>
