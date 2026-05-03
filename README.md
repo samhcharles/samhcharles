@@ -29,15 +29,15 @@
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td width="33%" align="center" valign="bottom">
-      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/hank.gif" height="240" alt="Hank Duck" /><br />
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/hank.gif" height="150" alt="Hank Duck" /><br />
       <img src="https://img.shields.io/badge/Hank-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" alt="Hank Duck" />
     </td>
     <td width="33%" align="center" valign="bottom">
-      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/nqita.gif" height="240" alt="Nqita" /><br />
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/nqita.gif" height="150" alt="Nqita" /><br />
       <img src="https://img.shields.io/badge/Nqita-FF69B4?style=flat-square&labelColor=FF69B4&color=FF69B4" alt="Nqita" />
     </td>
     <td width="33%" align="center" valign="bottom">
-      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/dublo.gif" height="240" alt="Agent 00" /><br />
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/dublo.gif" height="150" alt="Agent 00" /><br />
       <img src="https://img.shields.io/badge/Dublo-808080?style=flat-square&labelColor=808080&color=808080" alt="Agent 00" />
     </td>
   </tr>
@@ -47,19 +47,19 @@
       <table width="100%" cellspacing="0" cellpadding="0" border="0">
         <tr>
           <td width="20%" align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="200" alt="Hermes Agent" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="320" alt="Hermes Agent" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="200" alt="OpenClaw" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="320" alt="OpenClaw" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="200" alt="Claude" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="320" alt="Claude" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="200" alt="Codex" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="320" alt="Codex" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="200" alt="Kimi" />
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="320" alt="Kimi" />
           </td>
         </tr>
       </table>
