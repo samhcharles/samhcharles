@@ -6,7 +6,7 @@
 
 ### Im currently reading...
 
-> 🧟 *World War Z* by Max Brooks
+> 順 *World War Z* by Max Brooks
 
 <table align="center" width="82%" cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -29,15 +29,15 @@
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td colspan="5" align="center" valign="bottom">
-      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/hank.gif" height="80" alt="Hank Duck" /><br />
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/hank.gif" height="250" alt="Hank Duck" /><br />
       <img src="https://img.shields.io/badge/Hank-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" alt="Hank Duck" />
     </td>
     <td colspan="5" align="center" valign="bottom">
-      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/nqita.gif" height="80" alt="Nqita" /><br />
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/nqita.gif" height="250" alt="Nqita" /><br />
       <img src="https://img.shields.io/badge/Nqita-FF69B4?style=flat-square&labelColor=FF69B4&color=FF69B4" alt="Nqita" />
     </td>
     <td colspan="5" align="center" valign="bottom">
-      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/dublo.gif" height="80" alt="Agent 00" /><br />
+      <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/dublo.gif" height="250" alt="Agent 00" /><br />
       <img src="https://img.shields.io/badge/Dublo-808080?style=flat-square&labelColor=808080&color=808080" alt="Agent 00" />
     </td>
   </tr>
