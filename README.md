@@ -47,19 +47,19 @@
       <table width="85%" cellspacing="0" cellpadding="0" border="0">
         <tr>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hermesagent-color.svg" height="48" alt="Hermes" />
+            <img src="https://api.iconify.design/logos:hermes.svg" height="48" alt="Hermes" />
           </td>
           <td width="20%" align="center" valign="middle">
             <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/pixel-lobster.svg" height="48" alt="OpenClaw" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="48" alt="Claude" />
+            <img src="https://api.iconify.design/logos:anthropic-icon.svg" height="48" alt="Claude" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" height="48" alt="Codex" />
+            <img src="https://api.iconify.design/logos:openai-icon.svg" height="48" alt="Codex" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kimi-color.svg" height="48" alt="Kimi" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/kimi.svg" height="48" alt="Kimi" />
           </td>
         </tr>
       </table>
