@@ -28,41 +28,34 @@
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td width="33%" align="center" valign="bottom">
+    <td colspan="5" align="center" valign="bottom">
       <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/hank.gif" height="150" alt="Hank Duck" /><br />
       <img src="https://img.shields.io/badge/Hank-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" alt="Hank Duck" />
     </td>
-    <td width="33%" align="center" valign="bottom">
+    <td colspan="5" align="center" valign="bottom">
       <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/nqita.gif" height="150" alt="Nqita" /><br />
       <img src="https://img.shields.io/badge/Nqita-FF69B4?style=flat-square&labelColor=FF69B4&color=FF69B4" alt="Nqita" />
     </td>
-    <td width="33%" align="center" valign="bottom">
+    <td colspan="5" align="center" valign="bottom">
       <img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/dublo.gif" height="150" alt="Agent 00" /><br />
       <img src="https://img.shields.io/badge/Dublo-808080?style=flat-square&labelColor=808080&color=808080" alt="Agent 00" />
     </td>
   </tr>
-  <tr><td colspan="3" height="48"></td></tr>
   <tr>
-    <td colspan="3" align="center">
-      <table cellspacing="0" cellpadding="0" border="0">
-        <tr>
-          <td align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="400" alt="Hermes Agent" />
-          </td>
-          <td align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="400" alt="OpenClaw" />
-          </td>
-          <td align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="400" alt="Claude" />
-          </td>
-          <td align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="400" alt="Codex" />
-          </td>
-          <td align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="400" alt="Kimi" />
-          </td>
-        </tr>
-      </table>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="500" alt="Hermes Agent" />
+    </td>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="500" alt="OpenClaw" />
+    </td>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="500" alt="Claude" />
+    </td>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="500" alt="Codex" />
+    </td>
+    <td colspan="3" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="500" alt="Kimi" />
     </td>
   </tr>
 </table>
