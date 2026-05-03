@@ -6,7 +6,7 @@
 
 ### Im currently reading...
 
-> 🧟 *World War Z* by Max Brooks
+> 順 *World War Z* by Max Brooks
 
 <table align="center" width="82%" cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -41,30 +41,25 @@
       <img src="https://img.shields.io/badge/Dublo-808080?style=flat-square&labelColor=808080&color=808080" alt="Agent 00" />
     </td>
   </tr>
-  <tr><td colspan="3" height="24"></td></tr>
+  <tr><td colspan="3" height="32"></td></tr>
   <tr>
     <td colspan="3" align="center">
-      <table width="92%" cellspacing="0" cellpadding="0" border="0">
+      <table width="85%" cellspacing="0" cellpadding="0" border="0">
         <tr>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hermesagent-color.svg" height="48" alt="Hermes" /><br />
-            <img src="https://img.shields.io/badge/Hermes-000000?style=flat-square&labelColor=000000&color=000000" alt="Hermes" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hermesagent-color.svg" height="48" alt="Hermes" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/pixel-lobster.svg" height="48" alt="OpenClaw" /><br />
-            <img src="https://img.shields.io/badge/OpenClaw-CC1100?style=flat-square&labelColor=CC1100&color=CC1100" alt="OpenClaw" />
+            <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/pixel-lobster.svg" height="48" alt="OpenClaw" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="48" alt="Claude" /><br />
-            <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&labelColor=CC785C&color=CC785C" alt="Claude" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="48" alt="Claude" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" height="48" alt="Codex" /><br />
-            <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&labelColor=000000&color=000000" alt="Codex" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" height="48" alt="Codex" />
           </td>
           <td width="20%" align="center" valign="middle">
-            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kimi-color.svg" height="48" alt="Kimi" /><br />
-            <img src="https://img.shields.io/badge/Kimi-4E6EF2?style=flat-square&labelColor=4E6EF2&color=4E6EF2" alt="Kimi" />
+            <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kimi-color.svg" height="48" alt="Kimi" />
           </td>
         </tr>
       </table>
