@@ -43,19 +43,19 @@
   </tr>
   <tr>
     <td colspan="3" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="500" alt="Hermes Agent" />
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" height="800" alt="Hermes Agent" />
     </td>
     <td colspan="3" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="500" alt="OpenClaw" />
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openclaw.svg" height="800" alt="OpenClaw" />
     </td>
     <td colspan="3" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="500" alt="Claude" />
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude.svg" height="800" alt="Claude" />
     </td>
     <td colspan="3" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="500" alt="Codex" />
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg" height="800" alt="Codex" />
     </td>
     <td colspan="3" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="500" alt="Kimi" />
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg" height="800" alt="Kimi" />
     </td>
   </tr>
 </table>
