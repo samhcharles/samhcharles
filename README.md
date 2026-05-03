@@ -1,6 +1,6 @@
 # ☕︎ Samuel (Sam) C.
 
-> **[Mad House ©](https://github.com/madebymadhouse)**
+> Check out **[Mad House ©](https://github.com/madebymadhouse)**
 
 ---
 
